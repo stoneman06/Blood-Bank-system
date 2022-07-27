@@ -18,7 +18,7 @@ A Blood Bank and Donor management system where the Donors can register themselve
 
 7. After creating database import the blood_bank_database.sql file in it present in the sql folder.
 
-8. From the browser Go to http://localhost/BDMS/index.php to open User layout.
+8. From the browser Go to http://localhost/BDMS/index.php to open User layout. 
      
 # Admin Panel
    Open browser and type http://localhost/BDMS/admin/login.php to open Admin Login Panel.
