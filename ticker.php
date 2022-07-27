@@ -8,9 +8,9 @@
     position:relative;margin-left:auto;margin-right:auto;margin-top:400px  ;
   }
   .text1{
-  	box-shadow:none !important;
-    position:relative;
-      margin-left:auto;margin-right:auto;
+	box-shadow:none !important;
+	position:relative;
+	margin-left:auto;margin-right:auto;
   }
 }
 .blue {
@@ -19,8 +19,8 @@
 
 .news {
     box-shadow: inset 0 -15px 30px rgba(10,4,60,0.4), 0 5px 10px rgba(10,20,100,0.5);
-       width: 100%;
-       height:50px;
+    width: 100%;
+    height:50px;
     margin-top:0px;
     overflow: hidden;
 
