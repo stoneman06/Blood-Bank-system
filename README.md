@@ -8,7 +8,7 @@ A Blood Bank and Donor management system where the Donors can register themselve
 
 2. Open XAMPP Control panal and start apache and mysql.
      
-3. Download and Extract files in C:\xampp\htdocs.
+3. Download and Extract files in C:\xampp\htdocs..
 
 4. Open any browser
 
